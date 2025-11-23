@@ -1,0 +1,1 @@
+<view class="content"><view class="title-section"><view class="title">{{a}}</view><view class="meta-info"><text class="author">{{b}}</text><text class="time">{{c}}</text></view></view><view class="content-section"><rich-text class="rich-text" nodes="{{d}}"></rich-text></view><view wx:if="{{e}}" class="loading"><text>加载中...</text></view></view>
